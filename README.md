@@ -1,12 +1,12 @@
 # BJDD_CVPR21
-This is the official implementation of paper title "A Two-stage Deep Network for High Dynamic Range Image Reconstruction" from CVPRW21. To download full paper **[[Click Here](https://competitions.codalab.org/competitions/28161#participate)]**.
+This is the official implementation of paper title "Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for aPixel-bin Image Sensor" from CVPRW21. To download full paper **[[Click Here]()]**.
 
 
 **Please consider to cite this paper as follows:**
 ```
 @inproceedings{sharif2021hdr,
-  title={A Two-stage Deep Network for High Dynamic Range Image Reconstruction},
-  author={Sharif, SMA and Naqvi, Rizwan Ali, Biswas, Mithun and Sungjun, Kim},
+  title={Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for aPixel-bin Image Sensor},
+  author={Sharif, SMA and Naqvi, Rizwan Ali and Biswas, Mithun},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
   pages={},
   year={2021}
