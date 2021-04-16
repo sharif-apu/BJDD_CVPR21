@@ -44,6 +44,20 @@ git clone https://github.com/sharif-apu/BJDD_CVPR21.git
 cd BJDD_CVPR21
 pip install -r requirement.txt
 ```
+
+# Testing
+** [[Click Here](https://drive.google.com/drive/folders/1_ziIMjK9vGg-P_7Wxit96bnfHiO4_wQw?usp=sharinge)]** to download pretrained weights and save it to weights/ directory for inferencing with Quad-bayer CFA</br>
+```python main.py -i``` </br>
+
+A few testing images are provided in a sub-directory under testingImages (i.e., testingImages/sampleImages/)</br>
+In such occasion, reconstructed image(s) will be available in modelOutput/sampleImages/. </br>
+
+**To inference with custom setting execute the following command:**</br>
+```python main.py -i -s path/to/inputImages -d path/to/outputImages -ns=sigma(s)``` </br>
+Here,**-ns** specifies the standard deviation of a Gaussian distribution (i.e., -ns=5, 10, 15),**-s** specifies the root directory of the source images
+ (i.e., testingImages/), and **-d** specifies the destination root (i.e., modelOutput/).
+
+
 # Training
 To start training we need to sampling the images according to the CFA pattern and have to pair with coresponding ground-truth images.
 To sample images for pair training please execute the following command:
@@ -61,20 +75,9 @@ To specify your trining images path, go to mainModule/config.json and update "gt
 **For transfer learning execute:**</br>
 ```python main.py -tr -e -b ```
 
-# Testing
-**We provided pretrained weights for inferencing with Quad-bayer CFA.**</br>
-```python main.py -i``` </br>
-
-A few testing images are provided in a sub-directory under testingImages (i.e., testingImages/sampleImages/)</br>
-In such occasion, reconstructed image(s) will be available in modelOutput/sampleImages/. </br>
-
-**To inference with custom setting execute the following command:**</br>
-```python main.py -i -s path/to/inputImages -d path/to/outputImages -ns=sigma(s)``` </br>
-Here,**-ns** specifies the standard deviation of a Gaussian distribution (i.e., -ns=5, 10, 15),**-s** specifies the root directory of the source images
- (i.e., testingImages/), and **-d** specifies the destination root (i.e., modelOutput/).
 
 # Bayer Testing
-We also trained our model with Bayer CFA. To download pretrained Bayer weights **[[Click Here](https://)]**. In such occasion, please update binning factor entity in mainModule/config.json file.
+We also trained our model with Bayer CFA. To download pretrained Bayer weights **[[Click Here](https://drive.google.com/drive/folders/1_ziIMjK9vGg-P_7Wxit96bnfHiO4_wQw?usp=sharinge)]**. In such occasion, please update binning factor entity in mainModule/config.json file.
 
 
 # Others
