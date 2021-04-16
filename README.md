@@ -75,5 +75,17 @@ Here,**-ns** specifies the standard deviation of a Gaussian distribution (i.e., 
 
 # Bayer Testing
 We also trained our model with Bayer CFA. To download pretrained Bayer weights **[[Click Here](https://)]**. In such occasion, please update binning factor entity in mainModule/config.json file.
+
+
+# Others
+**Check model configuration:**</br>
+```python main.py -ms``` </br>
+**Create new configuration file:**</br>
+```python main.py -c```</br>
+**Update configuration file:**</br>
+```python main.py -u```</br>
+**Overfitting testing** </br>
+```python main.py -to ```</br>
+
 # Contact
 For any further query, feel free to contact us through the following emails: sma.sharif.cse@ulab.edu.bd, rizwanali@sejong.ac.kr, or mithun.bishwash.cse@ulab.edu.bd
