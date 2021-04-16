@@ -77,7 +77,7 @@ To specify your trining images path, go to mainModule/config.json and update "gt
 
 
 # Bayer Testing
-We also trained our model with Bayer CFA. To download pretrained Bayer weights **[[Click Here](https://drive.google.com/drive/folders/1_ziIMjK9vGg-P_7Wxit96bnfHiO4_wQw?usp=sharinge)]**. In such occasion, please update binning factor entity in mainModule/config.json file.
+We also trained our model with Bayer CFA. To download pretrained Bayer weights **[[Click Here](https://drive.google.com/drive/folders/125hFTHR5qpJy4AKhtjxFhZJ5aPxQI4TE?usp=sharing)]**. In such occasion, please update binning factor entity in mainModule/config.json file.
 
 
 # Others
