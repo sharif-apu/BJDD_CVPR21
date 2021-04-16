@@ -15,7 +15,7 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
 
 # Overview
 <p align="center">
-<img width=800 align="center" src = "https://github.com/sharif-apu/twostageHDR_NTIRE21/blob/master/images/overviewUp.png" alt="Overview"> </br>
+<img width=800 align="center" src = "https://github.com/sharif-apu/BJDD_CVPR21/blob/main/Extras/overview.png" alt="Overview"> </br>
 </p>
 
 **Figure:** Overview of the proposed method.  The proposed method comprises a two-stage deep network.  Stage-I aims toperform image enhancement task denoising, exposure correction, etc.  Stage-II of the proposed method intends to performtone mapping and bit-expansion.
@@ -24,7 +24,7 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
 # Comparison with state-of-the-art sigle-shot LDR to HDR Deep methods </br>
 
 <p align="center">
-<img width=800 align="center" src = "https://github.com/sharif-apu/twostageHDR_NTIRE21/blob/master/images/comp.png" alt="Overview"> </br>
+<img width=800 align="center" src = "https://github.com/sharif-apu/BJDD_CVPR21/blob/main/Extras/comp.png" alt="Overview"> </br>
 </p>
 
 **Figure:** Quantitative comparison between proposed method and existing learning-based single-shot LDR to HDR methods..
