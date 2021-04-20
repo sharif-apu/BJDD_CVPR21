@@ -21,7 +21,7 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
 **Figure:**  Overview of the proposed method, including network architecture and submodules.
 
 
-# Comparison with state-of-the-art sigle-shot LDR to HDR Deep methods </br>
+# Comparison with state-of-the-art deep JDD methods </br>
 
 <p align="center">
 <img width=800 align="center" src = "https://github.com/sharif-apu/BJDD_CVPR21/blob/main/Extras/comp.png" alt="Overview"> </br>
