@@ -1,4 +1,4 @@
-# BJDD_CVPR21
+# Beyond Joint Demosaicking and Denoising
 This is the official implementation of paper title "Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for a Pixel-bin Image Sensor". The paper has been accepted and expected to be published in the proceedings of CVPR21. To download full paper **[[Click Here](https://arxiv.org/abs/2104.09398)]**.
 
 
