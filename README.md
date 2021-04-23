@@ -5,7 +5,7 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
 **Please consider to cite this paper as follows:**
 ```
 @inproceedings{sharif2021bjdd,
-  title={Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for aPixel-bin Image Sensor},
+  title={Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for a Pixel-bin Image Sensor},
   author={Sharif, SMA and Naqvi, Rizwan Ali and Biswas, Mithun},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
   pages={},
