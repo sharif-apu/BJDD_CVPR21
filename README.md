@@ -14,7 +14,7 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
 ```
 
 # Overview
-BJDD tackle the challenges of joint demosaicing and denoising (JDD) of artefact prone non-bayer Quad-Bayer CFA and Bayer CFA. Notably, such XFA pair is substantially leveraging in the recent smartphone cameras (denoted as Pixel-bin image sensor).
+BJDD tackle the challenges of joint demosaicing and denoising (JDD) of artefact prone non-Bayer Quad-Bayer CFA and Bayer CFA pattern. Notably, such CFA pair is substantially leveraging in the recent smartphone cameras (denoted as Pixel-bin image sensor).
 
 <p align="center">
 <img width=800 align="center" src = "https://github.com/sharif-apu/BJDD_CVPR21/blob/main/Extras/CFA.png" alt="Overview"> </br>
