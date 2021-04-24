@@ -21,6 +21,8 @@ BJDD tackle the challenges of joint demosaicing and denoising (JDD) of artefact 
 </p>
 
 
+**Figure:**  Commonly used CFA patterns of pixel-bin image 086 sensors. Left : Quad-Bayer CFA. Right: Bayer-CFA.
+
 <p align="center">
 <img width=800 align="center" src = "https://github.com/sharif-apu/BJDD_CVPR21/blob/main/Extras/overview.png" alt="Overview"> </br>
 </p>
@@ -34,7 +36,7 @@ BJDD tackle the challenges of joint demosaicing and denoising (JDD) of artefact 
 <img width=800 align="center" src = "https://github.com/sharif-apu/BJDD_CVPR21/blob/main/Extras/comp.png" alt="Overview"> </br>
 </p>
 
-**Figure:** Quantitative comparison between proposed method and existing JDD methods.
+**Figure:** Quantitative comparison between proposed method and existing JDD methods for Quad-Bayer reconstruction.
 
 # Prerequisites
 ```
