@@ -1,14 +1,14 @@
 # Beyond Joint Demosaicking and Denoising (BJDD)
-This is the official implementation of paper title "Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for a Pixel-bin Image Sensor". The paper has been accepted and expected to be published in the proceedings of CVPRW21. To download full paper **[[Click Here](https://arxiv.org/abs/2104.09398)]**.
+This is the official implementation of paper title "Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for a Pixel-bin Image Sensor". The paper has been accepted and expected to be published in the proceedings of CVPRW21. To download full paper **[[Click Here](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Sharif_Beyond_Joint_Demosaicking_and_Denoising_An_Image_Processing_Pipeline_for_CVPRW_2021_paper.html)]**.
 
 
 **Please consider to cite this paper as follows:**
 ```
-@inproceedings{sharif2021bjdd,
-  title={Beyond Joint Demosaicking and Denoising: An Image Processing Pipeline for a Pixel-bin Image Sensor},
-  author={Sharif, SMA and Naqvi, Rizwan Ali and Biswas, Mithun},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
-  pages={},
+@inproceedings{a2021beyond,
+  title={Beyond joint demosaicking and denoising: An image processing pipeline for a pixel-bin image sensor},
+  author={A Sharif, SM and Naqvi, Rizwan Ali and Biswas, Mithun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={233--242},
   year={2021}
 }
 ```
