@@ -15,7 +15,7 @@
 	"inputC": "3",
 	"outputC": "3",
 	"scalingFactor": "1",
-	"binnigFactor": 2,
+	"binningFactor": 2,
 	"epoch": 5,
 	"learningRate": "0.0005",
 	"adamBeta1": "0.9",
