@@ -17,7 +17,7 @@ class deltaEColorLoss(nn.Module):
         return imageNP
 
     def __call__(self, genImage, gtImage):
-
+        self.loss.clear()
         for pair in range(len(genImage)):
             
             # Converting and changing shape of torch tensor into numpy

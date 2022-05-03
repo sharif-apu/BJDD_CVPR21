@@ -1,0 +1,5 @@
+**/__pycache__
+weights/
+logDir/
+*.png
+*.pth
