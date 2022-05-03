@@ -39,8 +39,8 @@ class BJDD:
         self.modelName = config['modelName']
         self.dataSamples = config['dataSamples']
         self.batchSize = int(config['batchSize'])
-        self.imageH = 128#int(config['imageH'])
-        self.imageW = 128#int(config['imageW'])
+        self.imageH = int(config['imageH'])
+        self.imageW = int(config['imageW'])
         self.inputC = int(config['inputC'])
         self.outputC = int(config['outputC'])
         self.scalingFactor = int(config['scalingFactor'])
