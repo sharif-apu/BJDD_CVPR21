@@ -17,7 +17,7 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
 
 **[[Paper Link](https://arxiv.org/abs/2110.08619)] || [[Code](https://github.com/sharif-apu/SAGAN_BMVC21)]**
 
-**Please do consider to cite SAGAN as follows:**
+**Please do consider citing SAGAN as follows:**
 ```
 @inproceedings{a2021beyond,
   title={SAGAN: Adversarial Spatial-asymmetric Attention for Noisy Nona-Bayer Reconstruction},
