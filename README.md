@@ -12,6 +12,21 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
   year={2021}
 }
 ```
+# Follow-up study on non-Bayer CFA Published in BMVC21
+**Paper title: SAGAN: Adversarial Spatial-asymmetric Attention for Noisy Nona-Bayer Reconstruction**
+**[[Paper Link](https://arxiv.org/abs/2110.08619)] || [[Code](https://github.com/sharif-apu/SAGAN_BMVC21)]**
+
+**Please do consider to cite SAGAN as follows:**
+```
+@inproceedings{a2021beyond,
+  title={SAGAN: Adversarial Spatial-asymmetric Attention for Noisy Nona-Bayer Reconstruction},
+  author={Sharif, SMA and Naqvi, Rizwan Ali and Biswas, Mithun},
+  booktitle={Proceedings of the BMVC21},
+  pages={0-0},
+  year={2021}
+}
+```
+
 
 # Overview
 BJDD tackle the challenges of joint demosaicing and denoising (JDD) of artefact prone non-Bayer Quad-Bayer CFA and Bayer CFA pattern. Notably, such CFA pair is substantially leveraging in the recent smartphone cameras (denoted as Pixel-bin image sensor).
