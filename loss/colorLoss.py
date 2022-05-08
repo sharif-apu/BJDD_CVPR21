@@ -14,7 +14,7 @@ class deltaEColorLoss(nn.Module):
 
     
     def torchTensorToNumpy(self, image):
-        imageNP = unNorm(image).permute(1,2,0).cpu().detach().numpy() * 255#.reshape(image.shape[1], image.shape[2], image.shape[0])
+        imageNP = unNorm(image).permute(1,2,0).cpu().detach().numpy() #.reshape(image.shape[1], image.shape[2], image.shape[0])
         return imageNP
 
     def __call__(self, genImage, gtImage):
