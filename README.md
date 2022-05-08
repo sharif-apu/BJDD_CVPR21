@@ -15,14 +15,14 @@ This is the official implementation of paper title "Beyond Joint Demosaicking an
 # Follow-up study on pixel-bin sensor has published in BMVC'21
 **Paper title: SAGAN: Adversarial Spatial-asymmetric Attention for Noisy Nona-Bayer Reconstruction**
 
-**[[Paper Link](https://arxiv.org/abs/2110.08619)] | [[Code](https://github.com/sharif-apu/SAGAN_BMVC21)]**
+**[[Paper Link](https://www.bmvc2021-virtualconference.com/assets/papers/1020.pdf)] | [[Supplemental](https://www.bmvc2021-virtualconference.com/assets/supp/1014_supp.zip)] | [[Code](https://github.com/sharif-apu/SAGAN_BMVC21)]**
 
 **Please do consider citing SAGAN as follows:**
 ```
 @inproceedings{a2021beyond,
   title={SAGAN: Adversarial Spatial-asymmetric Attention for Noisy Nona-Bayer Reconstruction},
   author={Sharif, SMA and Naqvi, Rizwan Ali and Biswas, Mithun},
-  booktitle={Proceedings of the BMVC21},
+  booktitle={Proceedings of the British Machine Vision Conference (BMVC)},
   pages={0-0},
   year={2021}
 }
